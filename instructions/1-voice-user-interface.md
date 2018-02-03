@@ -58,7 +58,7 @@ There are two parts to an Alexa skill.  The first part is the [Voice User Interf
 
     ![Add Intent Button](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/general/1-8-intents-button._TTH_.png)
 
-    > OPTIONAL: You can choose to upload a file to fill out your interaction model. To do that for this sample click on the </> Code Editor tab and drag the JSON file, IntentSchema.json, from the speechAssets folder of the sample code to the cloud upload icon. Once you're done, click Apply Changes.
+    > OPTIONAL: You can choose to upload a file to fill out your interaction model. To do that for this sample click on the </> Code Editor tab and drag the JSON file, InteractionModel.json, from the sample code to the cloud upload icon. Once you're done, click Apply Changes.
 
 9.  Select **Use an existing intent from the built-in library**. In the textbox provided enter **AMAZON.StartOverIntent** or select that intent from the list of matching intents as they appear, then click the **Add Intent** button.
 

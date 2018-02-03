@@ -27,4 +27,4 @@ AWS Lambda uses .NET Core 1.0 to execute C# code so download and install the lat
   ![](setup-fig6.png)
 
 
-To enable your C# Lambda Function to be invoked from an Alexa Skill you must add an **Alexa Skills Kit Trigger** then link the Function's ARN value to an Alexa Skill. This process is described in detail on [Page 2](../step-by-step/2-lambda-function.md) of the Step-by-step tutorial for this sample skill.
+To enable your C# Lambda Function to be invoked from an Alexa Skill you must add an **Alexa Skills Kit Trigger** then link the Function's ARN value to an Alexa Skill. This process is described in detail on [Page 2](../instructions/2-lambda-function.md) of the Step-by-step tutorial for this sample skill.
